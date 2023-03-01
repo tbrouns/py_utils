@@ -1,8 +1,7 @@
 import configparser
-import pickle
-
-import os
 import json
+import os
+import pickle
 
 import yaml
 from yaml.loader import SafeLoader
